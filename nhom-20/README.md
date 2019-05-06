@@ -5,8 +5,10 @@
 	* Nguyễn Ngọc Sơn
 	* Lê Hồng Phong 
 * Mô Tả:
-	* Đây là trang web bán điện thoại, laptop và các đồ công nghệ
-	* Có các thông tin về các sản phẩm công nghệ, mua bán giao dịch
+	* Tên sản phẩm:  Tinder.
+	* Đây là trang web giúp tương hợp, trò chuyện, hẹn hò. Giúp cho mọi người tìm có thể tìm được nửa kia của mình.
+* Nhóm người dùng :
+	* Dành cho những người có nhu cầu kết bạn, trò chuyện với những người mình thích
 * Mô tả quy trình thực hiện
 	* Tuần 1-3: Tìm hiểu các ngôn ngữ lập trình để tạo giao diện cần thiết(nguồn https://www.w3schools.com, https://developer.mozilla.org/vi, ...).
 	* Tuần 4: Làm giao diện cơ bản
